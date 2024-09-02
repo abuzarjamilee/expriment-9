@@ -19,7 +19,7 @@ all their parts simultaneously.
 
 
 
-
+```
 #include <iostream>
 using namespace std;
 
@@ -63,7 +63,7 @@ int main()
         cout<<*(c+k)<<endl;
     }
 }
-
+```
 ![image](https://github.com/user-attachments/assets/667c5f19-76f2-4042-b83f-e74f350a5b9b)
 
 
