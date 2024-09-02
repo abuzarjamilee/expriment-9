@@ -14,6 +14,12 @@ place you arrived at pointing still added onto them. Pointers can get lengthened
 them to do with your pointers; particularly amid arrangements involving arrays where these may become more useful by calling upon different addresses thereby traversing through 
 all their parts simultaneously.
 
+
+
+
+
+
+
 #include <iostream>
 using namespace std;
 
@@ -38,6 +44,7 @@ int main()
     cout<<"Second number : "<<b<<endl;
     cout<<"Sum of two numbers: "<<*i+*j<<endl;
 
+   
     for (k = 0;k<3;k++)
     {
         i++;
