@@ -58,6 +58,8 @@ int main()
 }
 
 ![image](https://github.com/user-attachments/assets/667c5f19-76f2-4042-b83f-e74f350a5b9b)
+
+
 Conclusion:
 → We learnt about pointers in C++.
 → We learnt the use case of pointers in C++.
